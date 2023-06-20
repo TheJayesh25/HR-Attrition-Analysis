@@ -1,7 +1,7 @@
 # HR Attrition Analysis  
 
 • This is personal project that I completed a while back.  
-• It contains a detailed analysis of a dataset that consist-ed of demographic information about employees such as their age, gender, education and other information such as their job role, department, wages, performance rating work hours, training time required, etc. Alongside these, there is also survey data providing information on their job, relationship, environment satisfaction, work life balance, etc.  
+• It contains a detailed analysis of a dataset that consisted of demographic information about employees such as their age, gender, education and other information such as their job role, department, wages, performance rating work hours, training time required, etc. Alongside these, there is also survey data providing information on their job, relationship, environment satisfaction, work life balance, etc.  
 
 Tools Used: PostgreSQL (Data Analysis), Tableau (Data Visualization)  
 
