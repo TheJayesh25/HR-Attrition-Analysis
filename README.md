@@ -11,4 +11,4 @@ Tools Used: PostgreSQL (Data Analysis), Tableau (Data Visualization)
 ### Note: I have created a dashboard in tableau to view these findings at a glance and filter them out based on different data points.  
 ### I have attached an image of the dashboard below OR you can click here to view the Dashboard: [HR Attrition Analysis dashboard](https://public.tableau.com/app/profile/jayesh25/viz/HRAttritionAnalysis_16866548755520/Dashboard1)  
 
-![My Image](my-image.jpg)
+![Dashboard](images/Dashboard.png)
